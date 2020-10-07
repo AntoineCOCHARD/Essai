@@ -1,3 +1,2 @@
 # Essai
 
-print("Hello World!")
